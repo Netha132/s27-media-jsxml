@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c43d3a88.css",
+    "main.js": "/static/js/main.7766cdbd.js",
+    "static/js/453.8f14e974.chunk.js": "/static/js/453.8f14e974.chunk.js",
+    "static/media/[iSongs.info] 03 - Waka Waka (Telugu).mp3": "/static/media/[iSongs.info] 03 - Waka Waka (Telugu).8ae52f9a20269ba569b9.mp3",
+    "static/media/Valmiki Teaser _ Varun Tej _ Harish Shankar _ Mickey J Meyer _ 14 Reels Plus.mp4": "/static/media/Valmiki Teaser _ Varun Tej _ Harish Shankar _ Mickey J Meyer _ 14 Reels Plus.b3ccbdef4918df2a9f0c.mp4",
+    "static/media/images.jpeg": "/static/media/images.019e30af01de4154d47f.jpeg",
+    "index.html": "/index.html",
+    "main.c43d3a88.css.map": "/static/css/main.c43d3a88.css.map",
+    "main.7766cdbd.js.map": "/static/js/main.7766cdbd.js.map",
+    "453.8f14e974.chunk.js.map": "/static/js/453.8f14e974.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43d3a88.css",
+    "static/js/main.7766cdbd.js"
+  ]
+}
